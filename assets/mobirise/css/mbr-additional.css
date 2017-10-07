@@ -1306,26 +1306,26 @@ body {
 .cid-qwKg1mmpbZ H1 {
   color: #232323;
 }
-.cid-qwKgrjRf0H {
+.cid-qxnc6ScMVs {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qwKgrjRf0H .mbr-slider .carousel-control {
+.cid-qxnc6ScMVs .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qwKgrjRf0H .mbr-slider .carousel-control-prev {
+.cid-qxnc6ScMVs .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qwKgrjRf0H .mbr-slider .carousel-control-next {
+.cid-qxnc6ScMVs .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qwKgrjRf0H .mbr-slider .modal-body .close {
+.cid-qxnc6ScMVs .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qwKgrjRf0H .mbr-gallery-item > div::before {
+.cid-qxnc6ScMVs .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1337,7 +1337,7 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qwKgrjRf0H .mbr-gallery-title {
+.cid-qxnc6ScMVs .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1350,7 +1350,7 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qwKieoALxz {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
@@ -1409,8 +1409,8 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qwKi3TUh9w {
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qwKi3TUh9w .media-container-row .mbr-text {
