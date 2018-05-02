@@ -3358,6 +3358,27 @@ body {
   color: #232323;
   text-align: left;
 }
+.cid-qQUQdzCa59 {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qQUQdzCa59 .image-block {
+  margin: auto;
+}
+.cid-qQUQdzCa59 figcaption {
+  position: relative;
+}
+.cid-qQUQdzCa59 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qQUQdzCa59 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qwKihykH70 {
   padding-top: 0px;
   padding-bottom: 15px;
